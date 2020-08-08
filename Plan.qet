@@ -113,7 +113,7 @@
         <property name="saveddate" show="1">8/8/2020</property>
         <property name="savedfilename" show="1">Plan</property>
         <property name="savedfilepath" show="1">F:/dev/CNC_Panel/Plan.qet</property>
-        <property name="savedtime" show="1">03:14</property>
+        <property name="savedtime" show="1">03:41</property>
     </properties>
     <newdiagrams>
         <border rowsize="80" colsize="60" rows="8" displaycols="true" cols="17" displayrows="true"/>
